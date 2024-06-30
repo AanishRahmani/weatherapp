@@ -13,7 +13,7 @@
 .history
 .svn/
 
-**/lib/keys/
+*/lib/keys/
 # IntelliJ related
 *.iml
 *.ipr
