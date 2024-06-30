@@ -13,7 +13,9 @@
 .history
 .svn/
 
-*/lib/keys/
+*.c++
+*.cmake
+.key
 # IntelliJ related
 *.iml
 *.ipr
